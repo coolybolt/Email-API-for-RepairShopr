@@ -1,678 +1,83 @@
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
+Subject: Refurb Ticket 6848 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7039 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: CU BOULDER 7226 Device Received?
+Subject: CU BOULDER 7229 Device Received?
+Subject: {{customer_full_name}} just experienced a BSOD
 Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
+Subject: Critical security alert
+Subject: Security alert
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Refurb Ticket 6848 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7039 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Refurb Ticket 6848 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7039 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Refurb Ticket 6848 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7039 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 7038 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: Refurb Ticket 6665 is growing a beard.
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
 Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
 Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
 Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
 Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
+Subject: epimetheus.lrd@gmail.com
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
 Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
+Subject: epimetheus.lrd@gmail.com
+Subject: Critical security alert
+Subject: CU BOULDER 7210 Device Received?
 Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: CU BOULDER 6365 Device Received?
-Subject: CU BOULDER 6715 Device Received?
-Subject: CU BOULDER 6837 Device Received?
-Subject: CU BOULDER 6939 Device Received?
-Subject: CU BOULDER 7008 Device Received?
-Subject: CU BOULDER 7012 Device Received?
-Subject: CU BOULDER 7015 Device Received?
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
-Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: CU BOULDER 6365 Device Received?
-Subject: CU BOULDER 6715 Device Received?
-Subject: CU BOULDER 6837 Device Received?
-Subject: CU BOULDER 6939 Device Received?
-Subject: CU BOULDER 7008 Device Received?
-Subject: CU BOULDER 7012 Device Received?
-Subject: CU BOULDER 7015 Device Received?
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
-Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: CU BOULDER 6365 Device Received?
-Subject: CU BOULDER 6715 Device Received?
-Subject: CU BOULDER 6837 Device Received?
-Subject: CU BOULDER 6939 Device Received?
-Subject: CU BOULDER 7008 Device Received?
-Subject: CU BOULDER 7012 Device Received?
-Subject: CU BOULDER 7015 Device Received?
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
-Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: CU BOULDER 6365 Device Received?
-Subject: CU BOULDER 6715 Device Received?
-Subject: CU BOULDER 6837 Device Received?
-Subject: CU BOULDER 6939 Device Received?
-Subject: CU BOULDER 7008 Device Received?
-Subject: CU BOULDER 7012 Device Received?
-Subject: CU BOULDER 7015 Device Received?
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
-Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: CU BOULDER 6365 Device Received?
-Subject: CU BOULDER 6715 Device Received?
-Subject: CU BOULDER 6837 Device Received?
-Subject: CU BOULDER 6939 Device Received?
-Subject: CU BOULDER 7008 Device Received?
-Subject: CU BOULDER 7012 Device Received?
-Subject: CU BOULDER 7015 Device Received?
-Subject: Coolio
-Subject: next email
-Subject: another email i think
-Subject: test??
-Subject: please for the love of god
-Subject: pleaseeee
-Subject: HJzghjgasgyih;xcwfdhb/fwduhrufhuhbvregqu
-Subject: eeeeeeeeeeeeeeeeeeeeeeeeee
-Subject: okay cool
-Subject: ughhhh
-Subject: test
-Subject: hello guy
-Subject: sdfwfsdffsdfsd
-Subject: message cpntent
-Subject: dffdsfd
-Subject: yes
-Subject: yest
-Subject: jetser
-Subject: i guees this should work
-Subject: heylo
-Subject: testy
-Subject: testh
-Subject: did it worl!
-Subject: im sorry
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 6904 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7002 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: CU BOULDER TICKET 7009 Device Received? If yes, change status to "In
- Progress". If no, follow up on tracking number.
-Subject: fdsf
-Subject: sfdfsdfsfdsfdfsfs
-Subject: CU BOULDER 6904 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/46877361'>6904</a>
-Subject: CU BOULDER 7009 Device Received? <a
- href='https://laptoprepairdenver.repairshopr.com/tickets/47800378'>7009</a>
-Subject: CU BOULDER 6365 Device Received?
-Subject: CU BOULDER 6715 Device Received?
-Subject: CU BOULDER 6837 Device Received?
-Subject: CU BOULDER 6939 Device Received?
-Subject: CU BOULDER 7008 Device Received?
-Subject: CU BOULDER 7012 Device Received?
-Subject: CU BOULDER 7015 Device Received?
+Subject: epimetheus.lrd@gmail.com
